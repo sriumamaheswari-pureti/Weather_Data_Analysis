@@ -74,36 +74,21 @@ The dataset contains weather-related attributes such as:
 * NumPy 🔢
 
 ---
-Here is a **very simple version** you can add 👇
 
----
+## 📥 Clone & Run the Project
 
-## 🌐 How to View & Clone This Project
+```bash
+# Clone the repository
+git clone https://github.com/sriumamaheswari-pureti/Weather_Data_Analysis.git
 
-### 🔗 View Project
+# Go to project folder
+cd Weather_Data_Analysis
 
-Open in browser:
-
-```
-
-```
-
----
-
-### 📥 Clone Project
-
-```
-git clone 
-```
-
----
-
-### ▶️ Run Project
-
-```
-cd weather-data-analysis
+# Open Jupyter Notebook
 jupyter notebook
 ```
+
+👉 Then open the `.ipynb` file and run all cells.
 
 ---
 
