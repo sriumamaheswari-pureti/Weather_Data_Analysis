@@ -3,7 +3,7 @@
 
 ## 📌 Project Overview
 
-This project focuses on analyzing a weather dataset using **Python** in a **Jupyter Notebook** environment. The objective is to explore, clean, and extract meaningful insights using data analysis techniques.
+This project performs **exploratory data analysis (EDA)** on a weather dataset using Python in a Jupyter Notebook environment. It focuses on cleaning and analyzing data to identify patterns in key features such as temperature, wind speed, visibility, and humidity. Various statistical techniques and data filtering methods are applied to derive meaningful insights. The project also utilizes Pandas operations like grouping and aggregation to compare different weather conditions. Overall, it demonstrates strong foundational skills in data analysis and real-world dataset handling.
 
 ---
 ## 📂 Dataset Description
